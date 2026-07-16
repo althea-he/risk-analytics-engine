@@ -247,11 +247,4 @@ have been removed or anonymized.
 
 # Author
 
-Althea He  
-
-Interested in:
-- Risk Analytics
-- Data Science
-- Machine Learning Engineering
-- Financial Technology
-- AI Infrastructure
+Tia He  
