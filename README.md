@@ -243,8 +243,3 @@ All:
 
 have been removed or anonymized.
 
----
-
-# Author
-
-Tia He  
